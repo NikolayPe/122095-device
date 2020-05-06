@@ -1,4 +1,4 @@
-# Barbershop
+# Device
 
 Project for mastering base html&css
 
